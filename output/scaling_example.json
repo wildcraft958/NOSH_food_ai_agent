@@ -1,0 +1,87 @@
+{
+  "dish": "palak_paneer",
+  "method": "adaptive",
+  "training_sizes": [
+    1,
+    4
+  ],
+  "target_sizes": [
+    2,
+    3
+  ],
+  "ingredients": {
+    "Onion": {
+      "dish": "palak_paneer",
+      "ingredient": "Onion",
+      "method": "adaptive",
+      "training_sizes": [
+        1,
+        4
+      ],
+      "target_sizes": [
+        2,
+        3
+      ],
+      "predictions": [
+        103.33333333333334,
+        121.66666666666667
+      ],
+      "confidence": 1.0,
+      "model_params": {
+        "selected_method": "Linear Interpolation",
+        "method_params": {
+          "slope": 18.333333333333332,
+          "intercept": 66.66666666666667,
+          "r_squared": 1.0
+        }
+      }
+    },
+    "Garlic": {
+      "dish": "palak_paneer",
+      "ingredient": "Garlic",
+      "method": "adaptive",
+      "training_sizes": [
+        1,
+        4
+      ],
+      "target_sizes": [
+        2,
+        3
+      ],
+      "predictions": [
+        15.0,
+        20.0
+      ],
+      "confidence": 1.0,
+      "model_params": {
+        "selected_method": "Linear Interpolation",
+        "method_params": {
+          "slope": 4.999999999999999,
+          "intercept": 5.000000000000002,
+          "r_squared": 1.0
+        }
+      }
+    },
+    "Green chilli": {
+      "dish": "palak_paneer",
+      "ingredient": "Green chilli",
+      "method": "adaptive",
+      "training_sizes": [
+        1,
+        4
+      ],
+      "target_sizes": [
+        2,
+        3
+      ],
+      "predictions": [
+        0.9,
+        3.51
+      ],
+      "confidence": 1.0,
+      "model_params": {
+        "selected_method": "Step Scaling",
+        "method_params": {
+          "step_threshold": 2.0,
+          "step_map": {
+            

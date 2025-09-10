@@ -1,0 +1,14 @@
+Food AI Ingredient Scaling System - Demo Results
+============================================================
+
+Dataset: 132 ingredient entries
+Dishes: palak_paneer, shahi_paneer, matar_paneer, paneer_masala
+Methods: linear, polynomial, constant, step, adaptive
+
+Scaling Results for Palak Paneer:
+----------------------------------------
+Onion: 2 servings = 103.3g, 3 servings = 121.7g
+Garlic: 2 servings = 15.0g, 3 servings = 20.0g
+Green chilli: 2 servings = 0.9g, 3 servings = 3.5g
+BB Royal Bay leaf: 2 servings = 0.5g, 3 servings = 0.5g
+BB Royal Cinnamon: 2 servings = 0.5g, 3 servings = 0.5g

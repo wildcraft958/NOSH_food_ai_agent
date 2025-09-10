@@ -1,0 +1,174 @@
+{
+    "palak_paneer": {
+        "1": {
+            "Onion": "1 no. / 85 grams",
+            "Garlic": "6¼clove / 10 grams",
+            "Green chilli": "1 no. / 0.90 grams",
+            "BB Royal Bay leaf": "1 no. / 0.47 grams",
+            "BB Royal Cinnamon": "¼ no. / 0.50 grams",
+            "BB Royal Green cardamom": "1 no. / 0.13 grams",
+            "Mother's Recipe Ginger garlic paste": "¾ tbsp / 10 grams",
+            "Tomato": "1¼ nos. / 80 grams",
+            "Blanched spinach puree": "½ cup / 125 grams",
+            "Paneer": "100 grams"
+        },
+        "2": {
+            "Onion": "1 no. / 85 grams",
+            "Garlic": "10½ clove / 16.63 grams",
+            "Green chilli": "2 nos. / 1.75 grams",
+            "BB Royal Bay leaf": "1 no. / 0.47 grams",
+            "BB Royal Cinnamon": "¼ no. / 0.50 grams",
+            "BB Royal Green cardamom": "2 no. / 0.26 grams",
+            "Mother's Recipe Ginger garlic paste": "1 tbsp / 15 grams",
+            "Tomato": "1½ nos. / 110 grams",
+            "Blanched spinach puree": "¾ cup / 175 grams",
+            "Paneer": "200 grams"
+        },
+        "3": {
+            "Onion": "1½ no. / 110 grams",
+            "Garlic": "12¾ clove / 20 grams",
+            "Green chilli": "3 nos. / 2.58 grams",
+            "BB Royal Bay leaf": "1 no. / 0.47 grams",
+            "BB Royal Cinnamon": "¼ no. / 0.50 grams",
+            "BB Royal Green cardamom": "2 nos. / 0.26 grams",
+            "Mother's Recipe Ginger garlic paste": "1¼ tbsp / 20 grams",
+            "Tomato": "2¼ nos. / 165 grams",
+            "Blanched spinach puree": "1 cup / 275 grams",
+            "Paneer": "300 grams"
+        },
+        "4": {
+            "Onion": "1¾ nos. / 140 grams",
+            "Garlic": "16¾ clove / 25 grams",
+            "Green chilli": "4 nos. / 3.51 grams",
+            "BB Royal Bay leaf": "1 no. / 0.47 grams",
+            "BB Royal Cinnamon": "¼ no. / 0.50 grams",
+            "BB Royal Green cardamom": "2 no. / 0.26 grams",
+            "Mother's Recipe Ginger garlic paste": "1½ tbsp / 25 grams",
+            "Tomato": "3¼ nos. / 220 grams",
+            "Blanched spinach puree": "1½ cup / 375 grams",
+            "Paneer": "400 grams"
+        }
+    },
+    "shahi_paneer": {
+        "1": {
+            "Green chilli": "½ no. / 0.41 grams",
+            "Mother's Recipe Ginger garlic paste": "¾ tbsp / 10 grams",
+            "Tomato": "1¾ nos. / 110 grams",
+            "Cachews": "3 nos. / 5 grams",
+            "Paneer": "150 grams",
+            "Coriander leaves": "1 tbsp / 3.33 grams",
+            "Everest Kasuri methi": "1 pinch / 0.25 grams",
+            "Amul Fresh cream": "1 tbsp / 20 grams"
+        },
+        "2": {
+            "Green chilli": "1 no. / 0.90 grams",
+            "Mother's Recipe Ginger garlic paste": "1 tbsp / 15 grams",
+            "Tomato": "2½ nos. / 165 grams",
+            "Cachews": "6 nos. / 10 grams",
+            "Paneer": "200 grams",
+            "Coriander leaves": "2 tbsp / 6.67 grams",
+            "Everest Kasuri methi": "1 pinch / 0.25 grams",
+            "Amul Fresh cream": "1½ tbsp / 30 grams"
+        },
+        "3": {
+            "Green chilli": "1 no. / 0.90 grams",
+            "Mother's Recipe Ginger garlic paste": "1¼ tbsp / 20 grams",
+            "Tomato": "3½ nos. / 220 grams",
+            "Cachews": "9 nos. / 15 grams",
+            "Paneer": "300 grams",
+            "Coriander leaves": "3 tbsp / 10 grams",
+            "Everest Kasuri methi": "¼ tsp / 0.40 grams",
+            "Amul Fresh cream": "2 tbsp / 40 grams"
+        },
+        "4": {
+            "Green chilli": "1 no. / 0.90 grams",
+            "Mother's Recipe Ginger garlic paste": "1½ tbsp / 25 grams",
+            "Tomato": "4¼ nos. / 275 grams",
+            "Cachews": "14¾ nos. / 25 grams",
+            "Paneer": "400 grams",
+            "Coriander leaves": "4 tbsp / 13.33 grams",
+            "Everest Kasuri methi": "¼ tsp / 0.40 grams",
+            "Amul Fresh cream": "2½ tbsp / 50 grams"
+        }
+    },
+    "matar_paneer": {
+        "1": {
+            "Ginger": "¾ tsp / 3.13 grams",
+            "Green chilli": "½ no. / 0.46 grams",
+            "Yummiez Green Peas": "¼ cup / 50 grams",
+            "Tomato": "1½ nos. / 110 grams",
+            "Kashmiri chilli": "1 nos. / 3.13 grams",
+            "BB Royal Besan/gram flour": "½ tsp / 1.35 grams",
+            "Mother's Recipe Ginger garlic paste": "¾ tbsp / 10 grams",
+            "Paneer": "75 grams",
+            "Everest Kasuri Methi": "¼ tsp / 0.25 grams",
+            "Coriander leaves": "¾ tbsp / 3.33 grams"
+        },
+        "2": {
+            "Ginger": "1½ tsp / 6.25 grams",
+            "Green chilli": "1 no. / 0.93 grams",
+            "Yummiez Green Peas": "½ cup / 80 grams",
+            "Tomato": "2½ nos. / 165 grams",
+            "Kashmiri chilli": "2 nos. / 6.26 grams",
+            "BB Royal Besan/gram flour": "1 tsp / 2.74 grams",
+            "Mother's Recipe Ginger garlic paste": "1¼ tbsp / 20 grams",
+            "Paneer": "150 grams",
+            "Everest Kasuri Methi": "¼ tsp / 0.25 grams",
+            "Coriander leaves": "1½ tbsp / 6.67 grams"
+        },
+        "3": {
+            "Ginger": "2 tsp / 9.38 grams",
+            "Green chilli": "1 no. / 0.90 grams",
+            "Yummiez Green Peas": "1 cup / 120 grams",
+            "Tomato": "3½ nos. / 245 grams",
+            "Kashmiri chilli": "2 nos. / 6.26 grams",
+            "BB Royal Besan/gram flour": "1½ tsp / 4.11 grams",
+            "Mother's Recipe Ginger garlic paste": "2 tbsp / 30 grams",
+            "Paneer": "200 grams",
+            "Everest Kasuri Methi": "¼ tsp / 0.25 grams",
+            "Coriander leaves": "2¼ tbsp / 10 grams"
+        },
+        "4": {
+            "Ginger": "2¾ tsp / 12.50 grams",
+            "Green chilli": "1 no. / 0.90 grams",
+            "Yummiez Green Peas": "1 cup / 150 grams",
+            "Tomato": "4¾ nos. / 330 grams",
+            "Kashmiri chilli": "3 nos. / 9.39 grams",
+            "BB Royal Besan/gram flour": "2 tsp / 5.48 grams",
+            "Mother's Recipe Ginger garlic paste": "2½ tbsp / 40 grams",
+            "Paneer": "300 grams",
+            "Everest Kasuri Methi": "½ tsp / 0.50 grams",
+            "Coriander leaves": "3 tbsp / 13.33 grams"
+        }
+    },
+    "paneer_masala": {
+        "1": {
+            "Green chilli": "½ no. / 0.41 grams",
+            "Onion": "1¾ nos. / 110 grams",
+            "Mother's Recipe Ginger garlic paste": "¾ tbsp / 10 grams",
+            "Tomato": "1¼ nos. / 80 grams",
+            "Paneer": "150 grams"
+        },
+        "2": {
+            "Green chilli": "½ no. / 0.41 grams",
+            "Onion": "2 nos. / 140 grams",
+            "Mother's Recipe Ginger garlic paste": "1 tbsp / 15 grams",
+            "Tomato": "1¾ nos. / 110 grams",
+            "Paneer": "200 grams"
+        },
+        "3": {
+            "Green chilli": "1 no. / 0.90 grams",
+            "Onion": "2½ nos. / 170 grams",
+            "Mother's Recipe Ginger garlic paste": "1¼ tbsp / 20 grams",
+            "Tomato": "2¼ nos. / 135 grams",
+            "Paneer": "300 grams"
+        },
+        "4": {
+            "Green chilli": "1 no. / 0.82 grams",
+            "Onion": "3 nos. / 195 grams",
+            "Mother's Recipe Ginger garlic paste": "1½ tbsp / 25 grams",
+            "Tomato": "2½ nos. / 165 grams",
+            "Paneer": "400 grams"
+        }
+    }
+}

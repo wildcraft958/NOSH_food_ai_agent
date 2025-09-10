@@ -1,0 +1,23 @@
+{
+  "dish": "palak_paneer",
+  "ingredient": "Paneer",
+  "method": "linear",
+  "training_sizes": [
+    1,
+    4
+  ],
+  "target_sizes": [
+    2,
+    3
+  ],
+  "predictions": [
+    200.0,
+    300.0
+  ],
+  "confidence": 1.0,
+  "model_params": {
+    "slope": 99.99999999999999,
+    "intercept": 2.842170943040401e-14,
+    "r_squared": 1.0
+  }
+}

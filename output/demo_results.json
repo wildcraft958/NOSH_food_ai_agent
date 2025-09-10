@@ -1,0 +1,75 @@
+{
+  "dish": "palak_paneer",
+  "scaling_method": "adaptive",
+  "training_servings": [
+    1,
+    4
+  ],
+  "target_servings": [
+    2,
+    3
+  ],
+  "results": {
+    "Onion": {
+      "predictions": [
+        103.33333333333334,
+        121.66666666666667
+      ],
+      "actual": [
+        85.0,
+        110.0
+      ],
+      "confidence": 1.0
+    },
+    "Garlic": {
+      "predictions": [
+        15.0,
+        20.0
+      ],
+      "actual": [
+        16.63,
+        20.0
+      ],
+      "confidence": 1.0
+    },
+    "Green chilli": {
+      "predictions": [
+        0.9,
+        3.51
+      ],
+      "actual": [
+        1.75,
+        2.58
+      ],
+      "confidence": 1.0
+    },
+    "BB Royal Bay leaf": {
+      "predictions": [
+        0.47,
+        0.47
+      ],
+      "actual": [
+        0.47,
+        0.47
+      ],
+      "confidence": 1.0
+    },
+    "BB Royal Cinnamon": {
+      "predictions": [
+        0.5,
+        0.5
+      ],
+      "actual": [
+        0.5,
+        0.5
+      ],
+      "confidence": 1.0
+    }
+  },
+  "evaluation": {
+    "mae": 6.924153659007644,
+    "mape": 11.424976307649237,
+    "rmse": 14.16621160138239,
+    "r2": 0.9827473374494728
+  }
+}
